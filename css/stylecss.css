@@ -1,2 +1,11 @@
 .letraIndex {
-  color: #fefefe; }
+    color: #fefefe;
+}
+
+.mainDiv {
+    background-color: ##0d0c1d;
+}
+
+.mainDivP {
+    color: #0d0c1d;
+}
